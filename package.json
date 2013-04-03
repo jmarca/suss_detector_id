@@ -1,0 +1,23 @@
+{
+  "name": "suss_detector_id",
+  "version": "0.0.1",
+  "description": "figure out the detector id from a filename",
+  "main": "suss_detector_id.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "should": "~1.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmarca/suss_detector_id"
+  },
+  "author": "James E. Marca",
+  "license": "BSD"
+}

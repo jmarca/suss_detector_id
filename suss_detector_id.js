@@ -1,4 +1,4 @@
-var vdsid_regex = /(\d{6,7})/;
+var vdsid_regex = /(\d{6,})/;
 var wim_regex = /(wim\.\d+\.[N,S,E,W])/;
 
 function suss_detector_id(fname){
